@@ -1,4 +1,4 @@
-# python-grc-fundamentals
+# grc_engineering_python_fundamentals
 
 Python fundamentals learned through GRC Engineering problems. Every exercise uses compliance data — controls, findings, evidence records, and framework mappings — instead of generic examples.
 
@@ -38,7 +38,7 @@ python-grc-fundamentals/
 | 2 | Variables and Simple Data Types | Complete |
 | 3 | Introducing Lists | Complete |
 | 4 | Working with Lists | Complete |
-| 5 | if Statements | Not Started |
+| 5 | if Statements | In Progress |
 | 6 | Dictionaries | Not Started |
 | 7 | User Input and while Loops | Not Started |
 | 8 | Functions | Not Started |
