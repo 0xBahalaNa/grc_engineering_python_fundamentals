@@ -1,5 +1,3 @@
-severity_dictionary = {}
-
 severity_names = ["Critical", "High", "Medium", "Low", "Info"]
 severity_scores = [4, 3, 2, 1, 0]
 
